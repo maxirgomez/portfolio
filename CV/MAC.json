@@ -1,0 +1,422 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Maximiliano",
+      "surnames": "Gomez",
+      "title": "Front end Developer, Exhimio jugador del Rocket League",
+      "description": "Desde que entre en este mundo de la programación me lleno el corazón aprender, progresar y ver como algo que cree pudo ser solución para otro o aportar a hacerlo más fácil, así empezo mi camino y sigue hasta hoy.",
+      "avatar": {
+        "alt": "4abb6590-f11a-4138-bec5-67cc77f511c7.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/16/c0e7470b-48e2-4704-ace7-bcb3c35c6548_4abb6590-f11a-4138-b.jpg"
+      },
+      "location": {
+        "notes": "Argentina, Buenos Aires"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/maxirgomez"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/maxirgomez/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Melómano",
+        "fact": "Disfruto de la música y cuando una banda nueva me cautiva, la investigo y abrazo completamente."
+      },
+      {
+        "topic": "Champion en Rocket League",
+        "fact": "Exhimio jugador del Rocket League y League of Legends."
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "ITPS Marketing",
+          "image": {
+            "alt": "download.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/16/c697e339-c322-4510-b0a1-121e33ef8d22_download.png"
+          },
+          "URL": "https://itps.marketing/"
+        },
+        "roles": [
+          {
+            "name": "Web developer",
+            "startDate": "2020-10-01",
+            "challenges": [
+              {
+                "description": "Mi trabajo consiste en discernir la tecnología para hacer eventualmente el sitio web para un cliente determinado. Una vez concluido el diseño por el equipo que haya realizado las vistas ( PS, Ai, Figma ) me entregan los editables con los que posteriormente empiezo a programar. Esto me ha llevado a hacer sitios estáticos (Html5, CSS3 y JS + librerias), Wordpress ( PHP orientado a Wordpress o constructores como Elementor, WPBakery, etc. ) y al presente me veo desarrollandolos en React. "
+              }
+            ],
+            "competences": [
+              {
+                "name": "Adobe Illustrator",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe Photoshop",
+                "type": "technology"
+              },
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Elementor",
+                "type": "technology"
+              },
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHPMyAdmin",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Web corporativa, Yogurisimo",
+          "description": "Este sitio web fue desarrollado con Wordpress + Elementor, donde la búsqueda fue que el cliente pueda hacer las modificaciones que necesite sin necesitar de un programador o equipo de programadores. ",
+          "URL": "https://www.yogurisimo.com.ar/",
+          "image": {
+            "alt": "logoyss.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/16/359439c0-beaf-4272-9965-e60086bd4402_logoyss.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-05-01",
+            "competences": [
+              {
+                "name": "Elementor",
+                "type": "technology"
+              },
+              {
+                "name": "PHPMyAdmin",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Web corporativa, Cognitus Consulting",
+          "description": "Este sitio web empezo por buscar siendo un Theme en wordpress custom, pero con el tiempo el cliente por la calidad de diseño que requirio fue realizado en un 50% autoadministrable y el restante estatico. Considero que es de lo más desafiantes que hice al presente por la complejidad del diseño y más aún de un cliente tan grande. ",
+          "URL": "https://cognitusconsulting.com/",
+          "image": {
+            "alt": "logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/16/fd78e05f-9abc-4771-a379-616d68c531d6_logo.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-03-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "PHPMyAdmin",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Landing page",
+          "description": "Esta landing fue diseñada y desarrollada en un tiempo no mayor a 12 hs, la compañia necesitaba una landing de un día para el otro por una competencia entre agencias y fue así como con un diseñador pudimos resolver la problematica, un gran proyecto que no dio a luz pero considero y muestro de gran relevancia porque demuestra una sinergia preciosa ante la urgencia.",
+          "URL": "https://uplanner-f3aeb.web.app/",
+          "image": {
+            "alt": "logo_uplanner.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/16/9c0f323c-9b55-4c5b-8534-a9b6898378fe_logo_uplanner.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-05-01",
+            "finishDate": "2022-06-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Hubspot",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Web corporativa, ITPS Marketing",
+          "description": "El desarrollo fue hecho en Vue.js como puntapie a testear frameworks como el mencionado y React, las animaciones fueron hechas con librerias y desde cero.\nTodas las imagenes fueron subidas a un CDN de donde las extraje y el formulario esta hecho con Email.js.",
+          "URL": "https://itps.marketing/",
+          "image": {
+            "alt": "download.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/16/78d3d7e8-1cc6-46fc-bce6-2c9d854034ea_download.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-11-01",
+            "finishDate": "2021-12-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Web corporativa, Forbex",
+          "description": "En conjunto con el equipo de diseñadores y la marca, hubo un búsqueda por una renovación completa del sitio web y darle una identidad más fresca y que persista la huella del deporte. ",
+          "URL": "https://forbex.com/",
+          "image": {
+            "alt": "Forbex_logo color.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/16/9b74122e-01c7-41b1-80e3-e6e76dfad99a_forbex_logo-color.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-06-01",
+            "finishDate": "2021-08-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "PHPMyAdmin",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Firebase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elementor",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHPMyAdmin",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/maxirgomez/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "React",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
