@@ -286,7 +286,7 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/16/9b74122e-01c7-41b1-80e3-e6e76dfad99a_forbex_logo-color.png"
           }
         },
-        "type": "openSource",
+        "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
