@@ -115,6 +115,46 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Mojo",
+          "image": {
+            "alt": "logo-web-2-1.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/26/981de7fb-679d-48b0-807a-d0b1eb71477d_logo-web-2-1.png"
+          },
+          "URL": "https://mojo.com.ar/"
+        },
+        "roles": [
+          {
+            "name": "Front end developer",
+            "startDate": "2018-01-01",
+            "finishDate": "2019-06-01",
+            "challenges": [
+              {
+                "description": "Mi participación en el proyecto fue diseñar y desarrollar las vistas de la plataforma web para que los usuarios puedan ver distintas analiticas sobre su contenido en distintas plataformas de distribución ( Youtube, Spotify, etc. ).\nTambien tuve la oportunidad de hacer la web corporativa donde el objetivo se basaba en la autogestión para editar el contenido."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ],
     "projects": [
