@@ -245,7 +245,7 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/16/78d3d7e8-1cc6-46fc-bce6-2c9d854034ea_download.png"
           }
         },
-        "type": "openSource",
+        "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
