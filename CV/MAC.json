@@ -359,6 +359,43 @@
       },
       {
         "details": {
+          "name": "Landing page",
+          "description": "Proyecto desarrollado para una campaña democrata, el desarrollo llego un total de 24hs. (Desktop + mobile)",
+          "URL": "https://internationaldtc.org/",
+          "image": {
+            "alt": "cropped-Recurso-1.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/29/0259cad9-0998-4e15-92bf-11d8269058b3_cropped-recurso-1.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-06-01",
+            "finishDate": "2021-07-01",
+            "competences": [
+              {
+                "name": "Elementor",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "PHPMyAdmin",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Landing page, Serenito",
           "description": "Desarrollo de landing page para la marca Serenito, actualmente el cambio fue a una web más grande y pasar a wordpress para gestionar el contenido, subida y bajada de productos. ",
           "URL": "https://serenitotest.web.app/",
