@@ -400,8 +400,8 @@
           "description": "Desarrollo de landing page para la marca Serenito, actualmente el cambio fue a una web más grande y pasar a wordpress para gestionar el contenido, subida y bajada de productos. ",
           "URL": "https://serenitotest.web.app/",
           "image": {
-            "alt": "logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/26/d994846c-e4e5-4f92-a080-1a0735a6f4c9_logo.png"
+            "alt": "logo-black.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/29/3dcfb221-9ac0-40ff-a0fa-4a22779e96c4_logo-black.png"
           }
         },
         "type": "sideProject",
@@ -411,6 +411,14 @@
             "startDate": "2020-01-01",
             "finishDate": "2020-02-01",
             "competences": [
+              {
+                "name": "Adobe Illustrator",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe Photoshop",
+                "type": "technology"
+              },
               {
                 "name": "CSS",
                 "type": "technology"
