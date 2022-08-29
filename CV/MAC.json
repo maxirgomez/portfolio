@@ -434,6 +434,55 @@
             ]
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Diseño y Desarrollo de Web corporativa",
+          "description": "Proyecto desarrollado para una campaña de marketing sobre pulido y plastificado de pisos, el desarrollo llevo poco más de un mes, donde luego de varios brainstorming quedo lo que esta actualmente. ",
+          "URL": "https://serviciointegraldepisos.com.ar/",
+          "image": {
+            "alt": "logo-black.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/29/7c39bd53-30cb-4675-8f56-fdb31bc623bd_logo-black.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2019-05-01",
+            "finishDate": "2019-07-01",
+            "competences": [
+              {
+                "name": "Adobe Illustrator",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe Photoshop",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "PHPMyAdmin",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
