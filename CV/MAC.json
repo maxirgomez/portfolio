@@ -56,7 +56,7 @@
             "startDate": "2020-10-01",
             "challenges": [
               {
-                "description": "Mi trabajo consiste en discernir la tecnología para hacer eventualmente el sitio web para un cliente determinado. Una vez concluido el diseño por el equipo que haya realizado las vistas ( PS, Ai, Figma ) me entregan los editables con los que posteriormente empiezo a programar. Esto me ha llevado a hacer sitios estáticos (Html5, CSS3 y JS + librerias), Wordpress ( PHP orientado a Wordpress o constructores como Elementor, WPBakery, etc. ) y al presente me veo desarrollandolos en React. "
+                "description": "Mi trabajo consiste en discernir la tecnología para hacer el un cliente determinado a una solución especifica, esto puede ir desde una web a aplicaciones pequeñas. \nEn el proceso, trabajo mucho con los diseñadores quienes hacen las vistas en caso de una web y los casos de uso en caso de alguna aplicación.\nUna vez concluido el diseño ( PS, Ai, Figma ) me entregan los editables con los que posteriormente empiezo a programar. \nEsto me ha llevado a hacer sitios estáticos (Html5, CSS3 y JS + librerias), Wordpress ( Themes customizados o constructores como Elementor, WPBakery, etc. ), al presente estoy desarrollando en React, un año en mayor o menor intensidad. "
               }
             ],
             "competences": [
