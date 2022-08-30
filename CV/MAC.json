@@ -523,12 +523,12 @@
       },
       {
         "details": {
-          "name": "Diseño y Desarrollo de Web corporativa",
+          "name": "Web corporativa, SIP",
           "description": "Proyecto desarrollado para una campaña de marketing sobre pulido y plastificado de pisos, el desarrollo llevo poco más de un mes, donde luego de varios brainstorming quedo lo que esta actualmente. ",
           "URL": "https://serviciointegraldepisos.com.ar/",
           "image": {
-            "alt": "logo-black.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/29/7c39bd53-30cb-4675-8f56-fdb31bc623bd_logo-black.png"
+            "alt": "logo-header.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/7432da33-97b5-4d8e-8c11-3a68e944c934_logo-header.png"
           }
         },
         "type": "sideProject",
