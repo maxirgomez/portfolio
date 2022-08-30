@@ -240,6 +240,47 @@
       },
       {
         "details": {
+          "name": "Desarrollo de web corporativa",
+          "description": "Tip Method se trata de una plataforma de e-learning sobre la organización del espacio, en este caso, mi servicio fue crear la web en React para mostrar la información de como inscribirse, cursos, costos, etc. y que redirige a su plataforma.\nEl diseño fue hecho en Figma, todos los assets estan subidos en a un cdn, como hosting utilizo firebase y para los formularios email.js .",
+          "URL": "https://www.tipmethod.net/",
+          "image": {
+            "alt": "Logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/a046527c-2111-4dbd-a551-f9652fef3d00_logo.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-07-01",
+            "finishDate": "2022-08-01",
+            "competences": [
+              {
+                "name": "Adobe Illustrator",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe Photoshop",
+                "type": "technology"
+              },
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Landing page",
           "description": "Esta landing fue diseñada y desarrollada en un tiempo no mayor a 12 hs, la compañia necesitaba una landing de un día para el otro por una competencia entre agencias y fue así como con un diseñador pudimos resolver la problematica, un gran proyecto que no dio a luz pero considero y muestro de gran relevancia porque demuestra una sinergia preciosa ante la urgencia.",
           "URL": "https://uplanner-f3aeb.web.app/",
