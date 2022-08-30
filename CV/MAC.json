@@ -437,6 +437,43 @@
       },
       {
         "details": {
+          "name": "Desarrollo de web corportativa",
+          "description": "El sitio fue hecho para la marca Actimel, en una versión anterior, como la marca tiene el ejercicio de renovarse cada año, esta fue la del año pasado. \nLa búsqueda estaba en destacar el diseño de la nueva botella mediante una animación y un sitio que juegue mucho en la forma en que se mostraba el contenido.",
+          "URL": "https://acti-v0.web.app/",
+          "image": {
+            "alt": "logo-header.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/1ddc260f-0422-4cc9-b5f2-3b4e00c2c4d5_logo-header.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-04-01",
+            "finishDate": "2020-06-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Landing page, Serenito",
           "description": "Desarrollo de landing page para la marca Serenito, actualmente el cambio fue a una web más grande y pasar a wordpress para gestionar el contenido, subida y bajada de productos. ",
           "URL": "https://serenitotest.web.app/",
