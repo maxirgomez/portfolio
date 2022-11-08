@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "Argentina",
         "region": "Buenos Aires",
-        "municipality": "Buenos Aires",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Buenos Aires"
       }
     },
     "relevantLinks": [
@@ -59,7 +58,7 @@
             "startDate": "2020-10-01",
             "challenges": [
               {
-                "description": "Mi trabajo consiste en discernir la tecnología para hacer el un cliente determinado a una solución especifica, esto puede ir desde una web a aplicaciones pequeñas. \nEn el proceso, trabajo mucho con los diseñadores quienes hacen las vistas en caso de una web y los casos de uso en caso de alguna aplicación.\nUna vez concluido el diseño ( PS, Ai, Figma ) me entregan los editables con los que posteriormente empiezo a programar. \nEsto me ha llevado a hacer sitios estáticos (Html5, CSS3 y JS + librerias), Wordpress ( Themes customizados o constructores como Elementor, WPBakery, etc. ), al presente estoy desarrollando en React, un año en mayor o menor intensidad. "
+                "description": "Mi trabajo consiste en discernir la tecnología para un cliente determinado a una solución especifica, esto puede ir desde una web a aplicaciones pequeñas. \nEn el proceso, trabajo mucho con los diseñadores quienes hacen las vistas en caso de una web y los casos de uso en caso de alguna aplicación.\nUna vez concluido el diseño ( PS, Ai, Figma ) me entregan los editables con los que posteriormente empiezo a programar. \nEsto me ha llevado a hacer sitios estáticos (Html5, CSS3 y JS + librerias), Wordpress ( Themes customizados o constructores como Elementor, WPBakery, etc. ), al presente estoy desarrollando en React, un año en mayor o menor intensidad. "
               }
             ],
             "competences": [
@@ -578,12 +577,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -672,7 +669,6 @@
       "preferredRoles": [
         "Frontend Developer"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
